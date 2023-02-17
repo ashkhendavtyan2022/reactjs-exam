@@ -1,0 +1,15 @@
+.about {
+    width: 30%;
+    height: 230px;
+    display: flex;
+}
+
+.about > img {
+    width: 50%;
+    margin-right: 20px;
+}
+
+.about-details > h2, p {
+    margin-bottom: 20px;
+}
+

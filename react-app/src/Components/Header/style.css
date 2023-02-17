@@ -1,0 +1,26 @@
+nav {
+    width: 100%;
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nav-item {
+    display: flex;
+    gap: 30px;
+}
+
+.nav-item {
+    list-style: none;
+}
+
+
+.nav-item > li > a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-item > li > a:hover {
+    color: brown;
+}
